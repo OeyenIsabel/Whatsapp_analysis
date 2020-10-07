@@ -4,19 +4,19 @@ Análisis de chat de Whatsapp de dos personas
 Este código funciona para analizar chats entre dos personas a través de la plataforma de mensajería instantánea Whatsapp.
 
 ## Preparación del archivo txt
-Para poder utilizar este código, el primer paso se realiza directamente desde el celular en Whatsapp.
-Dentro de la conversación que vamos a querer analizar, debemos:
-1- ir a la parte de opciones (los tres puntos en vertical que aparecen arriba a la izquierda)
-2- seleccionar la opción "Más"
-3- Seleccionar "Exportar chat".
-4- Elegir la opción "Sin archivos multimedia", de ese modo el proceso demorará menos y nosotros de todos modos no los estaremos utilizando
-5- Exportarlo por mail suele ser lo mas sencillo
-6- Descargar el txt y guardarlo en la misma carpeta donde descargarán este archivo .ipynb
+Para poder utilizar este código, el primer paso se realiza directamente desde el celular en Whatsapp.  
+Dentro de la conversación que vamos a querer analizar, debemos:  
+1- ir a la parte de opciones (los tres puntos en vertical que aparecen arriba a la izquierda)  
+2- seleccionar la opción "Más"  
+3- Seleccionar "Exportar chat".  
+4- Elegir la opción "Sin archivos multimedia", de ese modo el proceso demorará menos y nosotros de todos modos no los estaremos utilizando  
+5- Exportarlo por mail suele ser lo mas sencillo  
+6- Descargar el txt y guardarlo en la misma carpeta donde descargarán este archivo .ipynb  
 
 ## Preparación del código
-1- Deberán guardar en la misma carpeta el archivo descargado de texto, y el archivo del proyecto.
-2- El archivo .ipynb lo pueden ejecutar desde Jupyter Notebook, modificando previamente algunos datos: 
-2- a) El nombre a ingresar deberá ser su nombre como aparece en Whatsapp. Deberán reemplazar "Isabel" por su nombre.
+1- Deberán guardar en la misma carpeta el archivo descargado de texto, y el archivo del proyecto.  
+2- El archivo .ipynb lo pueden ejecutar desde Jupyter Notebook, modificando previamente algunos datos:   
+2- a) El nombre a ingresar deberá ser su nombre como aparece en Whatsapp. Deberán reemplazar "Isabel" por su nombre.  
 ```python
 mi_nombre = "Isabel"
 ```
