@@ -34,9 +34,9 @@ Este archivo funciona para el txt que descargó mi dispositivo, de acuerdo a su 
 Este es un ejemplo de las líneas que aparecen en mi archivo. Deberás modificar el RegEx de acuerdo a tu propio formato de fecha y hora:
 ```python
 ['4/4/18 5:21 p.\xa0m. - Isabel: Bueno termine',
-                '4/4/18 5:21 p.\xa0m. - Isabel: Todo ok',
-                '4/4/18 5:21 p.\xa0m. - xxxx: Genial!!!',
-                '4/4/18 5:21 p.\xa0m. - xxxx: 👏🏻👏🏻👏']
+'4/4/18 5:21 p.\xa0m. - Isabel: Todo ok',
+'4/4/18 5:21 p.\xa0m. - xxxx: Genial!!!',
+'4/4/18 5:21 p.\xa0m. - xxxx: 👏🏻👏🏻👏']
 ```          
 
 ## Contribuciones
